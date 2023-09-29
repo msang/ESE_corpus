@@ -1,0 +1,417 @@
+Stati Uniti d'America
+Russia
+Giappone
+Italia
+Messico
+Finlandia
+Turchia
+Francia
+India
+Cina
+Norvegia
+Canada
+Polonia
+Brasile
+Regno Unito
+Cile
+Svizzera
+Egitto
+Australia
+Iran
+Grecia
+Israele
+Austria
+Danimarca
+Argentina
+Belgio
+Colombia
+Svezia
+Paesi Bassi
+Vietnam
+Azerbaigian
+Bielorussia
+Bulgaria
+Portogallo
+Sudafrica
+Estonia
+Afghanistan
+Indonesia
+Islanda
+Repubblica Ceca
+Ungheria
+Albania
+Lituania
+Croazia
+Armenia
+Pakistan
+Romania
+Algeria
+Corea del Sud
+Slovacchia
+Iraq
+Kazakistan
+Arabia Saudita
+Thailandia
+Nuova Zelanda
+Venezuela
+Bangladesh
+Cuba
+Slovenia
+Etiopia
+Lettonia
+Libia
+Malaysia
+Siria
+Andorra
+Nigeria
+Kenya
+Filippine
+Perù
+Cipro
+Singapore
+Libano
+Malta
+Marocco
+Corea del Nord
+Sudan
+Nepal
+Repubblica Democratica del Congo
+Inghilterra
+Angola
+Montenegro
+Cambogia
+Mongolia
+Liechtenstein
+Somalia
+Irlanda
+Ghana
+Uruguay
+Zimbabwe
+Tunisia
+Birmania
+Ecuador
+Tanzania
+Madagascar
+Paraguay
+Bolivia
+Kirghizistan
+Namibia
+Yemen
+Giordania
+Ciad
+Emirati Arabi Uniti
+Costa d'Avorio
+Laos
+Sri Lanka
+Benin
+Botswana
+Tagikistan
+Camerun
+Uganda
+Zambia
+Taiwan
+Mali
+Uzbekistan
+Bhutan
+Bahrein
+Costa Rica
+Burkina Faso
+Mozambico
+Eritrea
+Burundi
+Mauritania
+Repubblica Centrafricana
+Turkmenistan
+Repubblica del Congo
+Gibuti
+Malawi
+Niger
+Senegal
+Honduras
+Guinea
+Oman
+Brunei
+Togo
+Gabon
+Gambia
+Ruanda
+Haiti
+Guinea-Bissau
+Maldive
+Capo Verde
+Liberia
+Papua Nuova Guinea
+Timor Est
+El Salvador
+Sierra Leone
+Guyana
+Guatemala
+Qatar
+Giamaica
+Comore
+Lesotho
+Nicaragua
+Kosovo
+Bahamas
+Scozia
+Repubblica Dominicana
+Sudan del Sud
+Figi
+Seychelles
+Dominica
+São Tomé e Príncipe
+Antigua e Barbuda
+Nauru
+Samoa
+Vanuatu
+Palau
+Galles
+Grenada
+Tuvalu
+Kiribati
+Trinidad e Tobago
+Isole Salomone
+Saint Kitts e Nevis
+Isole Marshall
+Saint Vincent e Grenadine
+Saint Lucia
+Stati Federati di Micronesia
+Irlanda del Nord
+Catalogna
+Aruba
+Isole Cook
+Niue
+Transnistria
+Galizia
+Isole Marianne Settentrionali
+Artsakh
+Sint Maarten
+Regno dei Paesi Bassi
+Iberia caucasica
+Regno di Danimarca
+Protettorato francese del Marocco
+Regno di Galizia e Lodomeria
+Ziridi
+Stati Uniti delle Isole Ionie
+Borneo settentrionale britannico
+Repubblica di Hatay
+Principato di Černihiv
+Garðaríki
+Alasiya
+Misl
+CA
+CDN
+CAN
+Repubblica d'Haiti
+République d'Haïti
+Repubblica Islamica dell'Iran
+Irak
+Repubblica dello Yemen
+🇮🇪
+Repubblica d'Irlanda
+Éire
+Regno di Norvegia
+Kongeriket Noreg
+Kongeriket Norge
+Noreg
+Stato del Giappone
+Chirghisia
+Stati Uniti
+The States
+U.S.A.
+Unione Americana
+SUA
+U.S.
+America
+States
+CRC
+Repubblica islamica del Pakistan
+Repubblica Popolare Democratica del Laos
+Lao
+Repubblica Democratica Socialista dello Sri Lanka
+Ceylon
+ENG
+Regno del Belgio
+VN
+🇻🇳
+Sverige
+Konungariket Sverige
+Repubblica delle Maldive
+Regno di Thailandia
+Siam
+Tailandia
+E.A.U.
+U.A.E.
+Cina
+Formosa
+Repubblica di Cina (RDC)
+MYS
+Malesia
+Malaisia
+Myanmar
+Repubblica dell'Unione della Birmania
+Repubblica Araba di Siria
+Repubblica Turchia
+Türkiye
+Elvezia
+CH
+Confederazione Elvetica
+Confederazione Svizzera
+Confoederatio Helvetica
+CHE
+SUI
+PRT
+Repubblica di Corea
+IT
+it
+Bel Paese
+🇮🇹
+ITA
+la penisola
+Repubblica italiana
+Repubblica del Tagikistan
+Repubblica di Gibuti
+Repubblica dello Zambia
+Repubblica Tunisina
+PL
+Repubblica di Polonia
+Basotholand
+Regno del Lesotho
+ZWE
+Rhodesia
+Repubblica Togolese
+Alto Volta
+NED
+🇳🇱
+NLD
+HOL
+Guinea Conakry
+Repubblica di Guinea
+Repubblica del Camerun
+Repubblica del Sudan
+🇬🇷
+Repubblica Ellenica
+Repubblica Araba d'Egitto
+Repubblica del Benin
+Repubblica Popolare del Bangladesh
+Repubblica Gabonese
+Repubblica del Mali
+Repubblica del Ghana
+Gana
+Congo
+Congo belga
+RDC
+Congo-Kinshasa
+St. Maarten
+Sint-Maarten
+Repubblica Islamica di Mauritania
+GB
+🇬🇧
+GBR
+Gran Bretagna
+Regno Unito di Gran Bretagna e Irlanda del Nord
+UK
+Roccia della Polinesia
+Pridnestrovie
+Pridniestrovie
+Repubblica Moldava della Transnistria
+Repubblica Moldava di Pridniestrov
+Transdnestria
+Transdniestr
+Transdniestria
+Transdnistria
+ROU
+🇷🇴
+San Tommaso e Principe
+Repubblica Federale Democratica d'Etiopia
+Cechia
+🇨🇿
+Chenia
+Kenia
+Repubblica Libica
+🇨🇺
+Repubblica di Cuba
+Arubano
+Repubblica di Croazia
+Nagorno Karabakh
+Repubblica del Nagorno Karabakh
+Repubblica dell'Artsakh
+Repubblica di Cipro
+Timor Orientale
+URY
+🇦🇲
+Repubblica del Sudafrica
+Sud Africa
+Cazachistan
+Cosacchia
+Cosacchistan
+Kazakhstan
+Federazione Russa
+Repubblica dell'India
+NL
+Paesi Bassi
+ec
+ecu
+ECU
+L'Ecuador
+Repubblica dell'Ecuador
+EC
+Repubblica Federale della Nigeria
+Repubblica di Costa d'Avorio
+Seicelle
+Ellice Islands
+Isole Ellice
+Micronesia
+Repubblica Democratica Popolare di Corea
+Repubblica dell'Uganda
+WS
+WSM
+Samoa Occidentali
+Repubblica dell'Uzbekistan
+Borneo settentrionale
+Stati Uniti delle Isole Jonie
+Unione delle Isole Ionie
+Unione delle Isole Jonie
+Iberia
+Iveria
+Re di Iberia
+Regno d'Iberia
+Regno di Iberia
+Repubblica della Sierra Leone
+Unione delle Comore
+República de Colombia
+Fiji
+Isole Figi
+dz
+Ǳ
+RDPA
+Repubblica Democratica Popolare di Algeria
+Repubblica del Mozambico
+Repubblica di Mozambico
+Repubblica d'Albania
+Congo
+Congo francese
+Congo-Brazzaville
+Catalunya
+Saint Vincent and the Grenadines
+CHL
+Repubblica del Cile
+Santa Lucia
+St. Lucia
+Gardarike
+Gardariki
+Garðaveldi
+Repubblica Bolivariana del Venezuela
+República Bolivariana de Venezuela
+Repubblica di Singapore
+Repubblica delle Kiribati
+Galizia e Lodomeria
+Cina popolare
+Repubblica Popolare Cinese
+RPC
+Repubblica di Malta
+Bahrain
+Regno del Bahrain
+Bahama
+Repubblica del Guatemala
+Commonwealth of Dominica
